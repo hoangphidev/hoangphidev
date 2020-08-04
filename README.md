@@ -15,7 +15,7 @@
 <br />
 <br />
 ### Languages and Tools:
-<br />
+
 [<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][github]
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
@@ -42,7 +42,7 @@
 <br />
 
 ### Github Stats:
-<br />
+
 <img align="left" alt="Phi Hoang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hoangphidev&show_icons=true&hide_border=true" />
 
 [github]: https://github.com/hoangphidev
